@@ -2,11 +2,10 @@
 I'm Precious, I'm a big learner. I code a bit.
 
 ## Currently Working on  
-- Commisions   
-- Twitter following tracking script  
 
 ## Currently Learning 
-- Improving git knowledge
+- Docker   
+- ARM Assembly(class)
 
 ## Github stats
 ![Precious' GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=Kyu&show_icons=true)  
