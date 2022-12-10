@@ -4,11 +4,7 @@ I'm Precious, I'm a big learner. I code a bit.
 ## Currently Working on  
 
 ## Currently Learning 
-- Docker   
-- ARM Assembly(class)  
-- F# (class)  
-- C#  
-- iOS Dev
+- Rust
 
 ## Github stats
 ![Precious' GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=Kyu&show_icons=true)  
