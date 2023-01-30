@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm Precious, I'm a big learner. I code a bit.
+I'm Precious, I code a bit.
 
 ## Currently Working on  
 
