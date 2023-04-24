@@ -1,13 +1,14 @@
-### Hi there 👋  
+### Hi there 👋🏾 
 I'm Precious, I code a bit.
 
 ## Currently Working on  
-- [Queue Preview](https://queuepreview.com)  
+- [Making a tiny OS](https://github.com/cfenollosa/os-tutorial)  
 
 
 ## Currently Learning 
-- Swift (?)
-- Wireshark (?)
+- C
+- Assembly (again)
+- Wireshark (just on a looong break)
 
 ## Github stats
 ![Precious' GitHub Stats Overview](https://github-readme-stats.vercel.app/api?username=Kyu&show_icons=true)  
