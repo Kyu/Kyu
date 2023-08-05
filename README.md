@@ -2,10 +2,11 @@
 I'm Precious, I code a bit.
 
 ## Currently Working on  
-- [Making a tiny OS](https://github.com/cfenollosa/os-tutorial)  
+- Internship
 
 
 ## Currently Learning 
+- C#
 - C
 - Assembly (again)
 - Wireshark (just on a looong break)
