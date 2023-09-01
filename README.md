@@ -2,11 +2,10 @@
 I'm Precious, I code a bit.
 
 ## Currently Working on  
-- Internship
+- School
 
 
-## Currently Learning 
-- C#
+## Currently "Learning"
 - C
 - Assembly (again)
 - Wireshark (just on a looong break)
