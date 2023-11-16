@@ -20,5 +20,5 @@ I'm Precious, I code a bit.
 ## This week
 ![Precious' Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yu&langs_count=5&layout=compact&hide_progress=true)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Kyu)
 
