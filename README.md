@@ -7,10 +7,8 @@ I'm Precious, I code a bit.
 
 
 
-## Currently "Learning"
-- C
-- Assembly (again)
-- Wireshark (just on a looong break)
+## Currently Learning
+- Rust
 
 ## Github stats
 ![](https://raw.githubusercontent.com/Kyu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
