@@ -2,7 +2,9 @@
 I'm Precious, I code a bit.
 
 ## Currently Working on  
-- School
+- [Sqlite-lite](https://github.com/Kyu/sqlite-lite)
+- [PC Remote](https://github.com/PcRemote)
+
 
 
 ## Currently "Learning"
