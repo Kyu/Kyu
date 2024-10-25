@@ -2,7 +2,7 @@
 I'm Precious, I code a bit.
 
 ## Currently Working on  
-- [Event Snap](https://eventsnap.app)
+- [EventSnap](https://eventsnap.app)
 - [Sqlite-lite](https://github.com/Kyu/sqlite-lite)
 - [PC Remote](https://github.com/PcRemote)
 
