@@ -4,12 +4,12 @@ I'm Precious, I code a bit.
 ## Currently Working on  
 - [EventSnap](https://eventsnap.app)
 - [sqlite_lite](https://github.com/Kyu/sqlite-lite)
-- [PC Remote](https://github.com/PcRemote)
+- [Colaria](https://github.com/PcRemote)
 
 
 
 ## Currently Learning
-- Swift
+- SwiftUI
 
 ## Github stats
 ![](https://raw.githubusercontent.com/Kyu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
