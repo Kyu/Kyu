@@ -9,7 +9,7 @@ I'm Precious, I code a bit.
 
 
 ## Currently Learning
-- SwiftUI
+
 
 ## Github stats
 ![](https://raw.githubusercontent.com/Kyu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
